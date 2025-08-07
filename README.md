@@ -5,7 +5,7 @@
 # Análise de Crédito Bancário com Classificação de Risco por Inadimplência
 
 ### Equipe: Mariah Lisboa
-### JuLho/2025
+### Julho/2025
 
 ## Contexto
 
