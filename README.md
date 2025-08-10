@@ -124,4 +124,10 @@ risco e aprimoramento das políticas de concessão de crédito.
   - 🎞️ [Vídeo-Apresentação (Loom)](https://www.loom.com/share/c4006626d2434be5813790263032164b?sid=79857de8-08b1-4e95-8f3b-10e6059138ce)
   - 🗂️ [Link para o notebook (Google Colab)](https://colab.research.google.com/drive/1xbJOS6PkGWwDDtFKd59mnrByAr9Jd7Gk?usp=sharing)
 
+<br>
+
+<p align="center">
+  <img src="score_risco_gif.gif" alt="Score de Risco" width="700"/>
+
+</p>
   
